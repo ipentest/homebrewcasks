@@ -334,3 +334,20 @@ Application and protocol fuzzing (random instead of targeted)
  260. http://sam.zoy.org/zzuf/
  261. http://autodafe.sourceforge.net/
  262. http://www.appliedsec.com/resources.html
+
+WAF bypass
+https://medium.com/secjuice/waf-evasion-techniques-718026d693d8
+https://www.secjuice.com/web-application-firewall-waf-evasion/
+https://lab.wallarm.com/xxe-that-can-bypass-waf-protection-98f679452ce0
+https://www.owasp.org/index.php/SQL_Injection_Bypassing_WAF
+https://www.sunnyhoi.com/reverse-engineer-web-application-firewall-using-regular-expression-reversing/
+https://0x09al.github.io/waf/bypass/ssl/2018/07/02/web-application-firewall-bypass.html
+https://www.youtube.com/watch?v=tSf_IXfuzXk 
+https://www.youtube.com/watch?v=PVVG4rCFZGU 
+https://www.youtube.com/watch?v=dMFJLicdaC0 
+https://www.youtube.com/watch?v=SD7ForrwUMY 
+https://www.usenix.org/conference/woot12/workshop-program/presentation/schmitt
+https://github.com/0xInfection/Awesome-WAF?fbclid=IwAR0RqzOMmq7OCGvddTJT_LOyGMVsdguq0lTuMImpLSXEvSxnFwX7bMF_xG0#how-wafs-work
+https://www.owasp.org/index.php/Category:OWASP_Best_Practices:_Use_of_Web_Application_Firewalls
+https://console.bluemix.net/docs/infrastructure/cis/waf-concept.html#web-application-firewall-concepts-q-a
+https://www.sans.org/reading-room/whitepapers/application/web-application-firewalls-35817
