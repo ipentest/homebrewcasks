@@ -1,0 +1,336 @@
+Test sites / testing grounds
+
+   1. http://zero.webappsecurity.com/
+   2. http://crackme.cenzic.com/
+   3. http://demo.testfire.net/
+   4. http://testphp.acunetix.com/
+   5. http://testasp.acunetix.com/
+   6. http://testaspnet.acunetix.com/
+   7. http://www.mavensecurity.com/webmaven
+   8. http://www.foundstone.com/us/resources-free-tools.asp
+   9. http://www.o2-ounceopen.com/technical-info/2008/12/8/updated-version-of-hacmebank.html
+  10. http://www.owasp.org/index.php/OWASP_WebGoat_Project
+  11. http://www.owasp.org/index.php/Owasp_SiteGenerator
+  12. http://suif.stanford.edu/~livshits/securibench/
+  13. http://suif.stanford.edu/~livshits/work/securibench-micro/
+
+HTTP proxying / editing
+
+  14. http://www.owasp.org/index.php/Category:OWASP_WebScarab_Project
+  15. http://www.portswigger.net/
+  16. http://www.parosproxy.org/
+  17. http://www.fiddlertool.com/
+  18. http://www.microsoft.com/mspress/companion/0-7356-2187-X/
+  19. http://www.owasp.org/index.php/Category:OWASP_Pantera_Web_Assessment_Studio_Project
+  20. http://www.sensepost.com/research/suru/
+  21. http://www.neutralbit.com/en/rd/httpedit/
+  22. http://www.xk72.com/charles/
+  23. http://www.bindshell.net/tools/odysseus
+  24. http://www.corsaire.com/downloads/
+  25. http://examples.oreilly.com/networkst/
+  26. http://jscmd.rubyforge.org/
+  27. http://code.google.com/p/ratproxy/
+
+RSnake’s XSS cheat sheet based-tools, webapp fuzzing, and encoding tools
+
+  28. http://www.edge-security.com/wfuzz.php
+  29. http://www.isecpartners.com/proxmon.html
+  30. http://wapiti.sourceforge.net/
+  31. http://rgaucher.info/beta/grabber/
+  32. http://darkcode.ath.cx/scanners/XSSscan.py
+  33. http://www.owasp.org/index.php/Category:OWASP_CAL9000_Project
+  34. http://www.fishnetsecurity.com/Tools/HTMangLe/publish.htm
+  35. http://sourceforge.net/projects/jbrofuzz
+  36. http://ha.ckers.org/blog/20060921/xssfuzz-released/
+  37. http://www.microsoft.com/mspress/companion/0-7356-2187-X/
+  38. http://packetstormsecurity.org/UNIX/utilities/mielietools-v1.0.tgz
+  39. http://rgaucher.info/b/index.php/post/2007/05/26/RegFuzzer:-Test-your-regular-expression-filter
+  40. http://www.dachb0den.com/projects/screamingcobra.html
+  41. http://immunitysec.com/resources-freesoftware.shtml
+  42. http://rfuzz.rubyforge.org/
+  43. http://www.codebreakers-journal.com/index.php?option=com_content&task=view&id=112&Itemid=99999999
+  44. http://www.pushtotest.com/Docs/downloads/features.html
+  45. http://michaeldaw.org/projects/asp-auditor-v2/
+  46. http://wstool.sourceforge.net/
+  47. http://ussysadmin.com/whcc/
+  48. http://www.microsoft.com/mspress/companion/0-7356-2187-X/
+  49. https://addons.mozilla.org/firefox/3899/
+  50. http://www.net-force.nl/library/downloads/
+  51. http://userscripts.org/scripts/show/743
+
+HTTP general testing / fingerprinting
+
+  52. http://hping.org/wbox/
+  53. http://htcheck.sourceforge.net/
+  54. http://www.lurhq.com/tools/mumsie.html
+  55. http://www.webinject.org/
+  56. http://stein.cshl.org/~lstein/torture/
+  57. http://www.joedog.org/JoeDog/Siege/
+  58. http://www.open-labs.org/
+  59. http://ge.mine.nu/lbd.html
+  60. http://ujeni.murkyroc.com/hmap/
+  61. http://net-square.com/httprint/
+  62. http://wpoison.sourceforge.net/
+  63. http://net-square.com/msnpawn/index.shtml
+  64. http://druid.caughq.org/projects/hcraft/
+  65. http://www.wiretrip.net/rfp/lw.asp
+  66. http://www.cirt.net/code/nikto.shtml
+  67. http://twill.idyll.org/
+  68. http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+  69. http://security-net.biz/files/dff/DFF.zip
+  70. http://packetstormsecurity.org/web/elza-1.4.7-beta.zip
+  71. http://www.stoev.org/elza.html
+  72. http://sf.net/projects/hackfox
+
+Browser-based HTTP tampering / editing / replaying
+
+  73. http://www.bayden.com/Other/
+  74. http://www.infobyte.com.ar/developments.html
+  75. http://modifyheaders.mozdev.org/
+  76. http://tamperdata.mozdev.org/
+  77. https://addons.mozilla.org/en-US/firefox/addon/1290/
+  78. https://addons.mozilla.org/en-US/firefox/addon/1385/
+  79. https://addons.mozilla.org/en-US/firefox/addon/1806/
+  80. https://addons.mozilla.org/en-US/firefox/addon/1913/
+  81. http://livehttpheaders.mozdev.org/
+
+Cookie editing / poisoning
+
+  82. https://addons.mozilla.org/en-US/firefox/addon/575/
+  83. http://lcamtuf.coredump.cx/stompy.tgz
+  84. http://addneditcookies.mozdev.org/
+  85. http://cookieculler.mozdev.org/
+  86. http://www.nektra.com/oss/firefox/extensions/cookiepie/
+  87. http://www.codeproject.com/shell/cookiespy.asp
+  88. http://www.dutchduck.com/Features/Cookies.aspx
+
+Ajax and XHR scanning
+
+  89. http://sahi.co.in/
+  90. http://scrubyt.org/
+  91. http://jquery.com/
+  92. http://www.gnucitizen.org/projects/jquery-include
+  93. http://www.denimgroup.com/sprajax.html
+  94. http://wtr.rubyforge.org/
+  95. http://watij.com/
+  96. http://watin.sourceforge.net/
+  97. http://idontsmoke.co.uk/2005/rbnarcissus/
+  98. http://blog.caboo.se/articles/2007/2/21/the-fabulous-spider-fuzz-plugin
+  99. http://jasildbg.googlepages.com/
+ 100. http://www.getfirebug.com/lite.html
+ 101. http://code.google.com/p/firewatir/
+
+RSS extensions and caching
+
+ 102. https://addons.mozilla.org/en-US/firefox/addon/324/
+ 103. http://www.dubfire.net/chris/projects/rss-cache/
+
+SQL injection scanning
+
+ 104. http://0x90.org/releases.php
+ 105. http://www.owasp.org/index.php/Category:OWASP_SQLiX_Project
+ 106. http://sqlninja.sourceforge.net/
+ 107. http://www.justinclarke.com/archives/2006/03/sqlbrute.html
+ 108. http://www.northern-monkee.co.uk/projects/bobcat/bobcat.html
+ 109. http://sqlmap.sourceforge.net/
+ 110. http://www.sensepost.com/research/scully/
+ 111. http://www.flowgate.net/?lang=en&seccion=herramientas
+ 112. http://www.priamos-project.com/
+
+Web application security malware, backdoors, and evil code
+
+ 113. http://w3af.sourceforge.net/
+ 114. http://busin3ss.name/jikto-in-the-wild/
+ 115. http://ferruh.mavituna.com/article/?1338
+ 116. http://xss-proxy.sourceforge.net/
+ 117. http://www.gnucitizen.org/projects/attackapi/
+ 118. http://azurit.elbiahosting.sk/ffsniff/
+ 119. http://honeyblog.org/junkyard/web-based/
+ 120. http://www.bindshell.net/tools/beef/
+ 121. http://www.gnucitizen.org/projects/fex/
+ 122. http://reglos.de/myaddress/
+ 123. http://www.botmaster.net/movies/XFull.htm
+ 124. http://www.merchantos.com/makebeta/tools/spyjax/
+ 125. http://www.gnucitizen.org/projects/greasecarnaval
+ 126. http://www.gnucitizen.org/projects/technika/
+ 127. http://www.gnucitizen.org/projects/load-attackapi-bookmarklet
+ 128. http://michaeldaw.org/my-projects/
+
+Web application services that aid in web application security assessment
+
+ 129. http://www.netcraft.net/
+ 130. http://www.abouturl.com/
+ 131. http://www.scrutinizethis.com/
+ 132. http://clez.net/
+ 133. http://www.serversniff.net/
+ 134. http://www.greymagic.com/security/tools/decoder/
+ 135. http://www.webmaster-toolkit.com/
+ 136. http://digg.com/security/MyIPNeighbors_Find_Out_Who_Else_is_Hosted_on_Your_Site_s_IP_Address
+ 137. http://h4k.in/encoding
+ 138. http://h4k.in/dataurl
+
+Browser-based security fuzzing / checking
+
+ 139. http://lcamtuf.coredump.cx/mangleme/mangle.cgi
+ 140. http://metasploit.com/users/hdm/tools/
+ 141. http://peachfuzz.sourceforge.net/
+ 142. http://research.eeye.com/html/tools/RT20060801-3.html
+ 143. http://www.ee.oulu.fi/research/ouspg/protos/testing/c05/http-reply/index.html
+ 144. http://labs.idefense.com/
+ 145. http://bcheck.scanit.be/bcheck/
+ 146. http://www.indiana.edu/~phishing/?projects
+ 147. http://linkscanner.explabs.com/linkscanner/default.asp
+ 148. http://www.heise-security.co.uk/services/browsercheck/
+ 149. http://www.jungsonnstudios.com/cool.php
+ 150. http://www.jumperz.net/index.php?i=2&a=1&b=7
+ 151. http://ha.ckers.org/weird/javascript-website-login-checker.html
+ 152. http://www.iol.ie/~locka/mozilla/mozilla.htm
+ 153. http://blackdragon.jungsonnstudios.com/
+ 154. http://ha.ckers.org/mr-t/
+ 155. http://www.0x000000.com/?i=324
+ 156. http://www.macromedia.com/software/flash/about/
+ 157. http://java.com/en/download/installed.jsp?detect=jre&try=1
+ 158. http://userscripts.org/scripts/show/30285
+
+Web Application Firewall (WAF) and Intrusion Detection (APIDS) rules and resources
+
+ 159. http://en.wikipedia.org/wiki/APIDS
+ 160. http://php-ids.org/
+ 161. http://code.google.com/p/phpids/
+ 162. http://code.google.com/p/dotnetids/
+ 163. http://www.securescience.com/home/newsandevents/news/interscout1.0.html
+ 164. http://remo.netnea.com/
+ 165. http://www.gotroot.com/tiki-index.php?page=mod_security+rules
+ 166. http://wsgw.sourceforge.net/
+ 167. http://noeljackson.com/tools/modsecurity/
+ 168. http://www.wisec.it/projects.php?id=3
+ 169. http://www.wisec.it/rdr.php?fn=/Projects/Rule-o-matic.tgz
+ 170. http://www.aqtronix.com/?PageID=99
+ 171. http://akismet.com/
+ 172. http://research.microsoft.com/projects/samoa/
+
+Web services enumeration / scanning / fuzzing
+
+ 173. http://www.codeplex.com/WebserviceStudio
+ 174. http://net-square.com/wschess/index.shtml
+ 175. http://www.owasp.org/index.php/Category:OWASP_WSFuzzer_Project
+ 176. http://www.sift.com.au/73/171/sift-web-method-search-tool.htm
+ 177. http://www.isecpartners.com/tools.html
+
+Threat modeling
+
+ 178. http://www.microsoft.com/downloads/details.aspx?FamilyID=59888078-9daf-4e96-b7d1-944703479451&displaylang=en
+ 179. http://www.amenaza.com/software.php
+ 180. http://www.octotrike.org/
+
+Add-ons for Firefox that help with general web application security
+
+ 181. https://addons.mozilla.org/firefox/60/
+ 182. https://addons.mozilla.org/firefox/3002/
+ 183. https://addons.mozilla.org/firefox/2897/
+ 184. https://addons.mozilla.org/firefox/3911/
+ 185. http://beaufour.dk/index.php?sec=misc&pagename=xforms
+ 186. http://www.mrtech.com/extensions/local_install/
+ 187. http://users.blueprintit.co.uk/~dave/web/firefox/buildid/index.html
+ 188. https://addons.mozilla.org/firefox/1419/
+ 189. https://addons.mozilla.org/firefox/59/
+ 190. https://addons.mozilla.org/firefox/2409/
+ 191. https://addons.mozilla.org/firefox/575/
+ 192. https://addons.mozilla.org/firefox/953/
+ 193. https://addons.mozilla.org/firefox/667/
+ 194. https://addons.mozilla.org/firefox/1999/
+ 195. https://addons.mozilla.org/firefox/4014/
+ 196. http://spiderzilla.mozdev.org/
+ 197. https://addons.mozilla.org/en-US/firefox/addon/143
+ 198. https://addons.mozilla.org/firefox/3208/
+
+Add-ons for Firefox that help with Javascript and Ajax web application security
+
+ 199. http://www.openqa.org/selenium-ide/
+ 200. http://www.joehewitt.com/software/firebug/
+ 201. http://www.mozilla.org/projects/venkman/
+ 202. http://groups.csail.mit.edu/uid/chickenfoot/
+ 203. http://www.greasespot.net/
+ 204. http://www.letitblog.com/greasemonkey-compiler/
+ 205. http://arantius.com/misc/greasemonkey/script-compiler
+ 206. http://ted.mielczarek.org/code/mozilla/extensiondev/
+ 207. https://addons.mozilla.org/en-US/firefox/addon/3885/
+
+Bookmarklets that aid in web application security
+
+ 208. http://ha.ckers.org/bookmarklets.html
+ 209. http://optools.awardspace.com/bmlet.html
+ 210. http://www.squarefree.com/bookmarklets/
+ 211. http://www.blummy.com/
+ 212. http://www.micropersuasion.com/2005/10/bookmarklets_ev.html
+ 213. http://n01se.net/chouser/proj/mozhack/
+ 214. http://www.chuonthis.com/extensions/
+
+SSL certificate checking / scanning
+
+ 215. http://www.foundstone.com/us/resources/termsofuse.asp?file=ssldigger.zip
+ 216. https://addons.mozilla.org/firefox/1964/
+
+Honeyclients, Web Application, and Web Proxy honeypots
+
+ 217. http://www.honeyclient.org/trac/
+ 218. http://honeyc.sourceforge.net/
+ 219. http://capture-hpc.sourceforge.net/
+ 220. http://ghh.sourceforge.net/
+ 221. http://www.rstack.org/phphop/
+ 222. http://www.monkey.org/~provos/spybye/
+ 223. http://www.securityfocus.com/infocus/1713
+
+Footprinting for web application security
+
+ 224. http://www.paterva.com/evolution-e.html
+ 225. http://www.mcgrewsecurity.com/projects/goosweep/
+ 226. http://www.sensepost.com/research/aura/
+ 227. http://www.edge-security.com/soft.php
+ 228. http://ha.ckers.org/fierce/
+ 229. http://www.nothink.org/perl/googlegath/
+ 230. https://addons.mozilla.org/firefox/2144/
+ 231. https://addons.mozilla.org/firefox/977/
+ 232. https://addons.mozilla.org/en-US/firefox/addon/1453/
+ 233. http://roachfiend.com/archives/2005/02/07/bugmenot/
+ 234. https://addons.mozilla.org/en-US/firefox/addon/1813/
+ 235. https://addons.mozilla.org/en-US/firefox/addon/2819/
+ 236. https://addons.mozilla.org/en-US/firefox/addon/1467/
+
+Database security assessment
+
+ 237. http://www.imperva.com/scuba/
+
+Browser Defenses
+
+ 238. http://www.diehard-software.org/
+ 239. http://databasement.net/labs/localrodeo/
+ 240. http://www.seclab.tuwien.ac.at/projects/jstaint/
+ 241. http://savannah.nongnu.org/projects/requestrodeo
+ 242. http://flashblock.mozdev.org/
+ 243. https://addons.mozilla.org/en-US/firefox/addon/2497
+ 244. http://www.noscript.net/
+ 245. https://addons.mozilla.org/en-US/firefox/addon/1579/
+ 246. http://adblock.mozdev.org/
+ 247. http://blog.php-security.org/archives/40-httpOnly-Cookies-in-Firefox-2.0.html
+ 248. http://www.safecache.com/
+ 249. http://www.safehistory.com/
+ 250. http://prefbar.mozdev.org/
+ 251. https://addons.mozilla.org/en-US/firefox/addon/1027/
+ 252. https://addons.mozilla.org/firefox/4115/
+ 253. https://addons.mozilla.org/en-US/firefox/addon/2098/
+ 254. http://firekeeper.mozdev.org/
+ 255. http://yehg.net/lab/#tools.greasemonkey
+
+Browser Privacy
+
+ 256. https://addons.mozilla.org/firefox/3173/
+ 257. http://www.privacybird.com/
+
+Application and protocol fuzzing (random instead of targeted)
+
+ 258. http://fuzzing.org/
+ 259. http://sourceforge.net/projects/taof/
+ 260. http://sam.zoy.org/zzuf/
+ 261. http://autodafe.sourceforge.net/
+ 262. http://www.appliedsec.com/resources.html
